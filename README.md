@@ -17,9 +17,9 @@ body,td,th {
 </style>
 <body bgcolor="#ff0000">
 
-<h1>SELAMAT DATANG SISTEM UNIVERSITAS SILIWANGI</h1>
+<h1>WELCOME IN SILIWANGI OF UNIVERSITY</h1>
 
-<p>Universitas Siliwangi.</p>
+<p>Siliwangi University.</p>
 <ul id="MenuBar1" class="MenuBarHorizontal">
   <li><a href="#">Beranda</a>  </li>
   <li><a href="#" class="MenuBarItemSubmenu">PMB Online</a>
