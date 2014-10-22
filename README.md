@@ -7,7 +7,7 @@ aTUGAS_KITA
 <link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 body {
-	background-image: url(hujan.jpg);
+	background-image: url(ww.jpg);
 }
 a:link {
 	color: blue;
@@ -65,16 +65,14 @@ body,td,th {
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<form name="form1" method="post" action="">
-  <p>NPM : 
-    <label for="textfield2"></label>
-  <input type="text" name="textfield" id="textfield2">
-</p>
-  <p>Password : 
-    <label for="textfield3"></label>
-    <input type="text" name="textfield2" id="textfield3">
-  </p>
-<p>&nbsp;</p>
+
+<form action=# method=get>
+NPM &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp : <input type=text name=nama  ><p>
+Password&nbsp&nbsp  : <input type=text name=alamat><p>
+<input type=submit value="login" name=submit>
+<input type=reset value="ulangi" name=reset>
+</form>
+
 <script type="text/javascript">
 var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
   </script>
