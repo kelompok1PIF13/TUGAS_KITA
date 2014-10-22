@@ -6,16 +6,13 @@ aTUGAS_KITA
 <link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 body {
-	background-image: url(pmb.jpg);
+	background-image: url(planet.jpg);
 }
 a:link {
-	color: #ffffff;
-}
-body,td,th {
-	color: #ff0000;
+	color: #999;
 }
 </style>
-<body bgcolor="#ff0000">
+<body bgcolor="#CCCCCC">
 
 <h1>WELCOME IN SILIWANGI OF UNIVERSITY</h1>
 
