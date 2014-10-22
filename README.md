@@ -1,17 +1,23 @@
-TUGAS_KITA
+aTUGAS_KITA
 ==========
 <!DOCTYPE html>
 <html>
+<script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+<style type="text/css">
 body {
-	background-image: url(planet.jpg);
+	background-image: url(pmb.jpg);
 }
 a:link {
-	color: #0000ff;
+	color: #ffffff;
+}
+body,td,th {
+	color: #ff0000;
 }
 </style>
 <body bgcolor="#ff0000">
 
-<h1>SELAMAT DATANG DI UNIVERSITAS SILIWANGI</h1>
+<h1>SELAMAT DATANG SISTEM UNIVERSITAS SILIWANGI</h1>
 
 <p>Universitas Siliwangi.</p>
 <ul id="MenuBar1" class="MenuBarHorizontal">
