@@ -2,21 +2,34 @@ aTUGAS_KITA
 ==========
 <!DOCTYPE html>
 <html>
+<title>SIMAK UNSIL</title>
 <script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
 <link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 body {
-	background-image: url(planet.jpg);
+	background-image: url(hujan.jpg);
 }
 a:link {
-	color: #999;
+	color: blue;
 }
+body,td,th {
+	color: white;
+}
+
 </style>
-<body bgcolor="#CCCCCC">
+<style>
+      myHero {
+        display:block;
+        background-color:grey;
+        padding: 35px;
+        font-size: 30px;
+      }  
+  </style>
+<body bgcolor="black">
 
-<h1>WELCOME IN SILIWANGI OF UNIVERSITY</h1>
+<h2>Universitas Siliwangi.</h2>
 
-<p>Siliwangi University.</p>
+<myHero>WELCOME IN SILIWANGI OF UNIVERCITY</myHero>
 <ul id="MenuBar1" class="MenuBarHorizontal">
   <li><a href="#">Beranda</a>  </li>
   <li><a href="#" class="MenuBarItemSubmenu">PMB Online</a>
@@ -67,3 +80,5 @@ var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenu
   </script>
 </body>
 </html>
+
+
