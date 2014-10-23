@@ -117,28 +117,28 @@ ul.MenuBarHorizontal a.MenuBarItemHover, ul.MenuBarHorizontal a.MenuBarItemSubme
 /* Menu items that have a submenu have the class designation MenuBarItemSubmenu and are set to use a background image positioned on the far left (95%) and centered vertically (50%) */
 ul.MenuBarHorizontal a.MenuBarItemSubmenu
 {
-	background-image: url(https://picasaweb.google.com/109386851774933390402/HampuraIkiNitip#slideshow/6073316400189949938.gif);
+	background-image: url(https://picasaweb.google.com/109386851774933390402/HampuraIkiNitip#slideshow);
 	background-repeat: no-repeat;
 	background-position: 95% 50%;
 }
 /* Menu items that have a submenu have the class designation MenuBarItemSubmenu and are set to use a background image positioned on the far left (95%) and centered vertically (50%) */
 ul.MenuBarHorizontal ul a.MenuBarItemSubmenu
 {
-	background-image: url(https://picasaweb.google.com/109386851774933390402/HampuraIkiNitip#slideshow/6073316893647558450.gif);
+	background-image: url(https://picasaweb.google.com/109386851774933390402/HampuraIkiNitip#slideshow);
 	background-repeat: no-repeat;
 	background-position: 95% 50%;
 }
 /* Menu items that are open with submenus have the class designation MenuBarItemSubmenuHover and are set to use a "hover" background image positioned on the far left (95%) and centered vertically (50%) */
 ul.MenuBarHorizontal a.MenuBarItemSubmenuHover
 {
-	background-image: url(https://picasaweb.google.com/109386851774933390402/HampuraIkiNitip#slideshow/6073315933722906946.gif);
+	background-image: url(https://picasaweb.google.com/109386851774933390402/HampuraIkiNitip#slideshow);
 	background-repeat: no-repeat;
 	background-position: 95% 50%;
 }
 /* Menu items that are open with submenus have the class designation MenuBarItemSubmenuHover and are set to use a "hover" background image positioned on the far left (95%) and centered vertically (50%) */
 ul.MenuBarHorizontal ul a.MenuBarItemSubmenuHover
 {
-	background-image: url(https://picasaweb.google.com/109386851774933390402/HampuraIkiNitip#slideshow/6073316695737721762.gif);
+	background-image: url(https://picasaweb.google.com/109386851774933390402/HampuraIkiNitip#slideshow);
 	background-repeat: no-repeat;
 	background-position: 95% 50%;
 }
